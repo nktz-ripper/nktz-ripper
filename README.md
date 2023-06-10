@@ -1,14 +1,14 @@
 [PT-BR]
 - 👋 Olá, eu sou o @nktz-ripper.
-- 👀 Estou interessado em ... incrementar minha carreira acadêmica e profissional como advogado, com programação.
-- 🌱 Atualmente estou estudando  ... Python Language, Django Framework para projetos Back-end.
+- 👀 Estou interessado em ... automatizar rotinas de trabalho.
+- 🌱 Atualmente estou estudando  ... Python.
 - 💞️ Estou buscando colaborar em ... quaisquer projetos reais.
 - 📫 Contato ... e-mail : advocacianakata@gmail.com
 
 [EN-US]
 - 👋 Hi, I’m @nktz-ripper.
-- 👀 I’m interested in ... enhancing my academic and Lawyer carreer with coding somehow.
-- 🌱 I’m currently learning ... Python Language, Django Framework for Back-end Projects
+- 👀 I’m interested in ... automate workflows.
+- 🌱 I’m currently learning ... Python Language.
 - 💞️ I’m looking to collaborate on ... any real projects
 - 📫 How to reach me ... e-mail : advocacianakata@gmail.com
 
